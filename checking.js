@@ -3,5 +3,5 @@
  var day = 100;
  var hour = 24;
 var minutes = 60;
-var name = "andi sui";
+var name = "andi";
 </script>
