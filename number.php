@@ -1,6 +1,7 @@
 <?php
 
 hari apa sekarang ?
-senin
+selasa
+  
 
 ?>
